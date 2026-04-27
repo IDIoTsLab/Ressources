@@ -1,4 +1,4 @@
 location_salle:
-  tarif_journee: 151
+  tarif_journee: 150
   tarif_demi_journee: 80
   devise: "€"
